@@ -58,7 +58,7 @@ Show Notes:
 [Rachel Carson](https://en.wikipedia.org/wiki/Rachel_Carson)
 [アルビン（潜水艦）](https://ja.wikipedia.org/wiki/アルビン号)
 [Woods Hole Oceanographic Institution](https://www.whoi.edu)
-[Atlantis](https://www.whoi.edu/what-we-do/explore/ships/ships-atlantis/) \- 船 (写真下載）
+[Atlantis](https://www.whoi.edu/what-we-do/explore/ships/ships-atlantis/) 船 (写真下載）
 [Josh Rosenthal](https://www.mbl.edu/research/faculty-directory/Joshua%20Rosenthal)l
 [Mark Horb](https://www.mbl.edu/research/faculty-directory/Marko%20Horb)
 [Wallace Craig](https://en.wikipedia.org/wiki/Wallace_Craig) ([Craig 1917](https://www.pnas.org/doi/abs/10.1073/pnas.3.12.685))
