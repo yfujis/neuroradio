@@ -24,7 +24,7 @@ Show Notes:
 [Martha’s Vineyard](https://maps.app.goo.gl/wTEpXxj1S7qAF6Q69) (オバマ家が別荘持っていてよく遊びに来たり、映画JAWSの撮影地だったり）
 [ちゃぱくいでぃっく（離島）](https://maps.app.goo.gl/j2SYL5UqMbs6FGYC7)
 で[ケネディー家が起こした事件](https://en.wikipedia.org/wiki/Chappaquiddick_incident)
-[長濱さん](https://www.knagahama-neuro-lab.com/) (NR出演回: [\#51](https://neuroradio.tokyo/2023/01/17/51-a-precise-tagging-of-active-neurons/), [\#96](https://neuroradio.tokyo/2025/09/16/96-crash-landing-on-u/))
+[長濱さん](https://www.knagahama-neuro-lab.com/) (NR出演回: [#51](https://neuroradio.tokyo/2023/01/17/51-a-precise-tagging-of-active-neurons/), [#96](https://neuroradio.tokyo/2025/09/16/96-crash-landing-on-u/))
 [寺田さん](https://scholar.google.com/citations?user=Au8xqK0vrR4C&hl=en)
 野口朝子[さん](https://memorylongevity.org/team)
 [Nakanishiさん](https://biology.uark.edu/directory/faculty/uid/nnakanis/name/Nagayasu+Nakanishi/)
@@ -78,11 +78,11 @@ Show Notes:
 [William (Bill) Ross](https://scholar.google.com/citations?user=wLjro74AAAAJ&hl=en)
 [接点T](https://www.youtube.com/shorts/MnEVorztcDs)
 [かめだ](https://www.youtube.com/shorts/VT0INKjuzpE)
-[古館昌平さん](https://www.sfari.org/people/shohei-furutachi/) (NR出演回: [\#62](https://neuroradio.tokyo/2023/09/09/62-beyond-predictions-part-1/), [\#63](http://neuroradio.tokyo/2023/09/09/63-beyond-predictions-part-2/), [\#80](https://neuroradio.tokyo/2024/10/20/80-beyond-a-predictive-machine/))
+[古館昌平さん](https://www.sfari.org/people/shohei-furutachi/) (NR出演回: [#62](https://neuroradio.tokyo/2023/09/09/62-beyond-predictions-part-1/), [#63](http://neuroradio.tokyo/2023/09/09/63-beyond-predictions-part-2/), [#80](https://neuroradio.tokyo/2024/10/20/80-beyond-a-predictive-machine/))
 [OIST Computational Neuroscience Course (OCNC)](https://groups.oist.jp/ocnc)
 [銅谷先生](https://www.oist.jp/research/research-units/ncu)
 [Neuromatch Academy](https://neuromatch.io)
-[Tadasu Nozaki](https://www.umass.edu/biology/about/directory/tadasu-nozaki) (NR出演回 [\#92](https://neuroradio.tokyo/2025/07/12/92-researchat/))
+[Tadasu Nozaki](https://www.umass.edu/biology/about/directory/tadasu-nozaki) (NR出演回 [#92](https://neuroradio.tokyo/2025/07/12/92-researchat/))
 [尾藤先生](https://neurosci.umin.jp/j/neurochemistry.html)
 グラスフェローTシャツ www.customink.comより写真転載
 <img width="513" height="490" alt="image1" src="https://github.com/user-attachments/assets/b9f7297c-fce2-42db-8433-9bb4cbda6a69" />
