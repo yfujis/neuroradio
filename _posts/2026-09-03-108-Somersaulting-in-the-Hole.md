@@ -8,7 +8,7 @@ spotify: "https://open.spotify.com/embed/episode/4E3otLhfEsWYNdsW5sAKmN?utm_sour
 apple_podcast: "https://embed.podcasts.apple.com/jp/podcast/108-somersaulting-in-the-hole/id1556937028?i=1000787549593"
 performers: ["ゲスト", "藤"]
 topics: ["ゲスト回", "野外収録", "ヒドラ", "MBL", "グラスフェロー", "サマースクール"]
-summary: "アーカンソー大学 リトルロック校で独立される山本渉さん(<a href='https://x.com/wayamamo'>@wayamamo</a>)ゲスト回。MA州Woods Holeから野外収録でお届け。ユステ研でのヒドラ研究、MBLでのグラスフェロー、激凸グラスラボツアー等。(2026/07/26 収録)"
+summary: "アーカンソー大学 リトルロック校で独立される山本渉さんゲスト回。MA州Woods Holeから野外収録でお届け。ユステ研でのヒドラ研究、MBLでのグラスフェロー、激凸グラスラボツアー等。(2026/07/26 収録)"
 ---
 
 Show Notes:
