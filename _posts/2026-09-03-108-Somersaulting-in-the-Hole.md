@@ -68,7 +68,7 @@ Show Notes:
 [Michael Greenberg](https://greenberg.hms.harvard.edu/)
 [Larry Abbott](https://ctn.zuckermaninstitute.columbia.edu/people/larry-f-abbott)
 [大学時代の友人がトップスターに](https://en.wikipedia.org/wiki/Ranveer_Singh)
-[The Grass Foundationは電気生理の実験器具（パッチクランプのアンプ等）で財をなしたEllen\&Albert Grass夫婦により設立](https://grassfoundation.org/our-history/)
+[The Grass Foundationは電気生理の実験器具（パッチクランプのアンプ等）で財をなしたEllen&Albert Grass夫婦により設立](https://grassfoundation.org/our-history/)
 [Orca Fusion](https://www.hamamatsu.com/eu/en/product/cameras/cmos-cameras/C14440-20UP.html)
 [Orca Flash](https://www.hamamatsu.com/eu/en/product/cameras/cmos-cameras/C13440-20CU.html) (Fusionの一世代前のモデル)
 遺伝研にいた[藤沢研](https://researchmap.jp/read0156936)の[清水さん](https://ja.wikipedia.org/wiki/清水裕_\(生物学者\))
