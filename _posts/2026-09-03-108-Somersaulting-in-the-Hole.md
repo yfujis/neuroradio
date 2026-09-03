@@ -84,6 +84,16 @@ Show Notes:
 [Neuromatch Academy](https://neuromatch.io)
 [Tadasu Nozaki](https://www.umass.edu/biology/about/directory/tadasu-nozaki) (NR出演回 [#92](https://neuroradio.tokyo/2025/07/12/92-researchat/))
 [尾藤先生](https://neurosci.umin.jp/j/neurochemistry.html)
+<figure>
+  <img src="/assets/episodes/108-Somersaulting-in-the-Hole/image1.png" alt="">
+  <figcaption>グラスフェローTシャツ www.customink.comより写真転載</figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/episodes/108-Somersaulting-in-the-Hole/image2.png" alt="">
+  <figcaption>R/V Atlantisを背に</figcaption>
+</figure>
+
 
 Editorial Notes:
 私は模試の成績が良すぎて高校3年間代ゼミと駿台がタダでした。架空の国ジャパンとか言い続けてるのは富田の影響が強そう。アーカンソーは[Onyx coffee labのpreserve](https://onyxatthepreserve.com/)に行きたいです(萩) 
