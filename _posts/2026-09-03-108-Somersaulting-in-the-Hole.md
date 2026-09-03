@@ -84,10 +84,6 @@ Show Notes:
 [Neuromatch Academy](https://neuromatch.io)
 [Tadasu Nozaki](https://www.umass.edu/biology/about/directory/tadasu-nozaki) (NR出演回 [#92](https://neuroradio.tokyo/2025/07/12/92-researchat/))
 [尾藤先生](https://neurosci.umin.jp/j/neurochemistry.html)
-グラスフェローTシャツ www.customink.comより写真転載
-<img width="513" height="490" alt="image1" src="https://github.com/user-attachments/assets/b9f7297c-fce2-42db-8433-9bb4cbda6a69" />
-R/V Atlantisを背に
-<img width="1999" height="1500" alt="image2" src="https://github.com/user-attachments/assets/6b576fd4-5e57-4ce1-b379-1796098377af" />
 
 Editorial Notes:
 私は模試の成績が良すぎて高校3年間代ゼミと駿台がタダでした。架空の国ジャパンとか言い続けてるのは富田の影響が強そう。アーカンソーは[Onyx coffee labのpreserve](https://onyxatthepreserve.com/)に行きたいです(萩) 
