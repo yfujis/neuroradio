@@ -1,5 +1,3 @@
-109-Gut-feeling-Part-1
-
 ---
 layout: episode
 title: "#109 Gut feeling — Part1"
