@@ -5,8 +5,8 @@ layout: episode
 title: "#109 Gut feeling — Part1"
 episode_number: "109"
 date: 2026-09-11
-permalink: /2026/06/01/109-Gut-feeling-Part-1/
-spotify: "https://open.spotify.com/embed/episode/..."
+permalink: /2026/09/11/109-Gut-feeling-Part-1/
+spotify: "https://open.spotify.com/embed/episode/1XME9yVuJT3ek9QKxMJWt2?utm_source=generator&si=5ee1d1f312d14b21"
 performers: ["ゲスト", "萩"]
 topics: ["ゲスト回", "ボディビル", "腸"]
 summary: "スタンフォード大学にて来春独立する東原幸起a.k.a兄者さんゲスト回。ドラッグボディビル、寄生虫感染に対する腸管の防御機構に関する最新論文の議論、など  (8/19 収録)"
