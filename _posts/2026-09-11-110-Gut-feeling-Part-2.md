@@ -1,4 +1,3 @@
-
 ---
 layout: episode
 title: "#110 Gut feeling — Part2”
