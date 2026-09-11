@@ -1,7 +1,7 @@
 ---
 layout: episode
-title: "#110 Gut feeling — Part2”
-episode_number: "110”
+title: "#110 Gut feeling — Part2"
+episode_number: "110"
 date: 2026-09-11
 permalink: /2026/09/11/110-Gut-feeling-Part-2/
 spotify: "https://open.spotify.com/embed/episode/3uDPPrNPQqioL4D2bvXJTL?utm_source=generator&si=28b42f012bb04814"
