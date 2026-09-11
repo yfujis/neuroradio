@@ -4,10 +4,10 @@ layout: episode
 title: "#110 Gut feeling — Part2”
 episode_number: "110”
 date: 2026-09-11
-permalink: /2026/06/01/110-Gut-feeling-Part-2/
-spotify: "https://open.spotify.com/embed/episode/..."
+permalink: /2026/09/11/110-Gut-feeling-Part-2/
+spotify: "https://open.spotify.com/embed/episode/3uDPPrNPQqioL4D2bvXJTL?utm_source=generator&si=28b42f012bb04814"
 performers: ["ゲスト", "萩"]
-topics: ["ゲスト回", "ボディビル", "腸"]
+topics: ["ゲスト回", "ボディビル", "Women's health"]
 summary: "東原幸起さんゲスト回後編。シナプス研究会@京都、さきがけIP問題、ジョブマーケット25/26戦線、これからのプロジェクトなど (8/26 収録)"
 ---
 
