@@ -5,6 +5,7 @@ episode_number: "110"
 date: 2026-09-11
 permalink: /2026/09/11/110-Gut-feeling-Part-2/
 spotify: "https://open.spotify.com/embed/episode/3uDPPrNPQqioL4D2bvXJTL?utm_source=generator&si=28b42f012bb04814"
+apple_podcast: "https://embed.podcasts.apple.com/jp/podcast/110-gut-feeling-part2/id1556937028?i=1000789068790"
 performers: ["ゲスト", "萩"]
 topics: ["ゲスト回", "生理研研究会", "Women's health"]
 summary: "東原幸起さんゲスト回後編。シナプス研究会@京都、さきがけIP問題、ジョブマーケット25/26戦線、これからのプロジェクトなど (8/26 収録)"
