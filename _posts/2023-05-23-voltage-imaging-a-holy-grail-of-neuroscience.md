@@ -33,7 +33,6 @@ Expansionと免染でシナプス見る、例えば[コレ](https://www.nature.c
 [Jack](https://alleninstitute.org/person/jack-waters/)
 
 目次
-[](#)
 [イントロダクション](/2023/05/23/57-voltage-imaging-a-holy-grail-of-neuroscience/#%E3%82%A4%E3%83%B3%E3%83%88%E3%83%AD%E3%83%80%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3)
 [Genetically Encoded Voltage Indicator (GEVI)](/2023/05/23/57-voltage-imaging-a-holy-grail-of-neuroscience/#Genetically_Encoded_Voltage_Indicator_GEVI)[１．Voltage sensitive phosphataseのVSDを使った系列](/2023/05/23/57-voltage-imaging-a-holy-grail-of-neuroscience/#%EF%BC%91%EF%BC%8EVoltage_sensitive_phosphatase%E3%81%AEVSD%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E7%B3%BB%E5%88%97)[1-1: VSDの末端に２つの蛍光タンパク質をつけてFRETするタイプ](/2023/05/23/57-voltage-imaging-a-holy-grail-of-neuroscience/#1-1_VSD%E3%81%AE%E6%9C%AB%E7%AB%AF%E3%81%AB%EF%BC%92%E3%81%A4%E3%81%AE%E8%9B%8D%E5%85%89%E3%82%BF%E3%83%B3%E3%83%91%E3%82%AF%E8%B3%AA%E3%82%92%E3%81%A4%E3%81%91%E3%81%A6FRET%E3%81%99%E3%82%8B%E3%82%BF%E3%82%A4%E3%83%97)
 [1-2: VSDのC末に蛍光タンパク質を入れるタイプ（特にpHluorine改変体）](/2023/05/23/57-voltage-imaging-a-holy-grail-of-neuroscience/#1-2_VSD%E3%81%AEC%E6%9C%AB%E3%81%AB%E8%9B%8D%E5%85%89%E3%82%BF%E3%83%B3%E3%83%91%E3%82%AF%E8%B3%AA%E3%82%92%E5%85%A5%E3%82%8C%E3%82%8B%E3%82%BF%E3%82%A4%E3%83%97%EF%BC%88%E7%89%B9%E3%81%ABpHluorine%E6%94%B9%E5%A4%89%E4%BD%93%EF%BC%89)
