@@ -2,8 +2,8 @@
 layout: episode
 title: "#111 Let’s stop admiring them"
 episode_number: "111"
-date: 2026-09-19
-permalink: /2026/09/19/111-Lets-stop-admiring-them/
+date: 2026-09-18
+permalink: /2026/09/18/111-Lets-stop-admiring-them/
 spotify: "https://open.spotify.com/embed/episode/1YNRiVMfzH3vJtsqDDeofP?utm_source=generator&si=1b28b5ae46084d3e"
 performers: ["藤", "萩"]
 topics: ["雑談回", "お便り"]
