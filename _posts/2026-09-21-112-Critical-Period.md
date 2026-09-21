@@ -7,7 +7,7 @@ permalink: /2026/09/21/112-Critical-Period/
 spotify: "https://open.spotify.com/embed/episode/..."
 performers: ["ゲスト", "藤"]
 topics: ["ゲスト回", "キャリア", "発達", "認知科学", "社会行動", "視覚"]
-summary: "マウントサイナイ医科大学教授/国立精神・神経医療研究センター神経研究所 疾病研究第三部部長の森下博文さん([@morishih](https://x.com/morishih))ゲスト回。医学生時代の様々な経験から臨界期研究に至る人生の軌跡・今後の展望について伺いました。(2026/09/02 収録)"
+summary: "マウントサイナイ医科大学教授/国立精神・神経医療研究センター神経研究所 疾病研究第三部部長の森下博文さん(<a href='https://x.com/morishih'>@morishih</a>)ゲスト回。医学生時代の様々な経験から臨界期研究に至る人生の軌跡・今後の展望について伺いました。(2026/09/02 収録)"
 ---
 
 Show Notes:
