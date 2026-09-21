@@ -5,6 +5,7 @@ episode_number: "111"
 date: 2026-09-18
 permalink: /2026/09/18/111-Lets-stop-admiring-them/
 spotify: "https://open.spotify.com/embed/episode/1YNRiVMfzH3vJtsqDDeofP?utm_source=generator&si=1b28b5ae46084d3e"
+apple_podcast: "https://embed.podcasts.apple.com/jp/podcast/111-lets-stop-admiring-them/id1556937028?i=1000790517811"
 performers: ["萩", "藤"]
 topics: ["雑談回", "お便り"]
 summary: "久しぶりのお便り回。ビッグラボでのサバイバル、神経＆免疫、メリトクラシー等々、たくさんのお便りありがとうございます。今後も感想・コメントお待ちしております（特典音源あり）。 (2026/09/11 収録)"
