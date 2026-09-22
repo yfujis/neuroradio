@@ -300,6 +300,10 @@ h3 {
   margin-bottom: 0;
 }
 
+.latest-body .platform-links {
+  margin-top: 16px;
+}
+
 .player-bar {
   margin-top: 18px;
   background: var(--accent);

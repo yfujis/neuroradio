@@ -17,6 +17,15 @@ summary: 神経科学者による日本語Podcast。最新回、エピソード�
         <div class="spotify-embed">
           <iframe src="{{ latest.spotify }}" width="100%" height="152" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" title="Spotify episode player"></iframe>
         </div>
+        <div class="platform-links" aria-label="最新回を聴く">
+          {% if latest.spotify %}
+          {% assign latest_spotify_id = latest.spotify | split: '/episode/' | last | split: '?' | first %}
+          <a class="platform" href="https://open.spotify.com/episode/{{ latest_spotify_id }}">Spotifyで聴く</a>
+          {% endif %}
+          {% if latest.apple_podcast %}
+          <a class="platform" href="{{ latest.apple_podcast | replace: 'https://embed.podcasts.apple.com/', 'https://podcasts.apple.com/' | escape }}">Apple Podcastsで聴く</a>
+          {% endif %}
+        </div>
       </div>
     </article>
   </section>
