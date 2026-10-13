@@ -61,9 +61,20 @@ CSDはVoltageのspatial ‘2nd’ derivative(訂正)
 [Woods Hole Film Festival](https://woodsholefilmfestival.org)
 [seqNMF](https://elifesciences.org/articles/38471)
 
-細野さん@Radio City
-Woods Holeの夕焼け1
-Woods Holeの夕焼け2
+<figure>
+  <img src="/assets/episodes/113-Gather-the-Mind/image1.jpg" alt="">
+  <figcaption>細野さん@Radio City</figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/episodes/113-Gather-the-Mind/image2.jpg" alt="">
+  <figcaption>Woods Holeの夕焼け1</figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/episodes/113-Gather-the-Mind/image3.jpg" alt="">
+  <figcaption>Woods Holeの夕焼け2</figcaption>
+</figure>
 
 Editorial Notes:
 2019はコサインとサマーコース両方行ったのでマジで糖尿病リスクやばかったと思う(萩)
