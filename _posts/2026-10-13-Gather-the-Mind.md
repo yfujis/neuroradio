@@ -4,7 +4,7 @@ title: "#113 Gather the Mind"
 episode_number: "113"
 date: 2026-10-13
 permalink: /2026/10/13/113-Gather-the-Mind/
-spotify: "https://open.spotify.com/embed/episode/..."
+spotify: "https://open.spotify.com/embed/episode/0iYQ8U0foHTeihXx326N1e?utm_source=generator&si=f495fadb22db4bd0"
 performers: ["萩", "藤"]
 topics: ["雑談回", "MBL", "サマースクール", "計算神経科学"]
 summary: "計算神経科学サマースクール振り返り回。授業やプロジェクトの様子、講師陣やクラスメートとの交流など。 (2026/09/24 収録)"
