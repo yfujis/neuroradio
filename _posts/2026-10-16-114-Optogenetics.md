@@ -5,6 +5,7 @@ episode_number: "114"
 date: 2026-10-16
 permalink: /2026/10/16/114-Optogenetics/
 spotify: "https://open.spotify.com/embed/episode/1DM45vLVy5q45gCntuEDBT?utm_source=generator&si=a6319281f786412a"
+apple_podcast: "https://embed.podcasts.apple.com/jp/podcast/114-optogenetics/id1556937028?i=1000796626594"
 performers: ["ゲスト", "萩"]
 topics: ["ゲスト回", "ノーベル賞", "Optogenetics"]
 summary: "ノーベル医学生理学賞受賞記念回。井上昌俊さん(<a href='https://x.com/feynman1104'>@feynman1104</a>)、加藤eme英明さん(<a href='https://x.com/emeKato'>@emeKato</a>)がゲスト。(10/10 収録)"
