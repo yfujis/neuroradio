@@ -93,7 +93,20 @@ Hegemannラボの[HKR1論文](https://doi.org/10.1074/jbc.M112.401604) (Luck et 
 [2023 Cell](https://doi.org/10.1016/j.cell.2023.08.009)：K+チャネルロドプシンの構造  
 Yoon Seok Kim氏、スイスで独立：[EPFLのラボ](https://www.epfl.ch/labs/upkim/)（[着任のニュース](https://actu.epfl.ch/news/two-new-appointments-at-the-school-of-life-scien-2/)）  
 Stanfordに作った新しいプログラム: [Human Neural Circuitry program](https://med.stanford.edu/news/all-news/2023/12/human-neural-circuitry.html)  
-D-Lab Swag
+
+<figure>
+  <img src="/assets/episodes/114-Optogenetics/image1.jpg" alt="">
+  <figcaption>D-Lab Swag 1</figcaption>
+</figure>
+<figure>
+  <img src="/assets/episodes/114-Optogenetics/image2.jpg" alt="">
+  <figcaption>D-Lab Swag 2</figcaption>
+</figure>
+<figure>
+  <img src="/assets/episodes/114-Optogenetics/image3.jpg" alt="">
+  <figcaption>D-Lab Swag 3</figcaption>
+</figure>
+
 
 Editorial Notes:
 エメさんとDラボで光遺伝学なら誰が受賞するか予想しあったのを思い出しました。当時からKarlとPeter Hegemannは堅いと話していましたね。(昌)  
