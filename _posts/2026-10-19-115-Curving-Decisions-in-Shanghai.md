@@ -37,7 +37,7 @@ Show Notes:
 [南部 篤先生](https://researchmap.jp/atsushinambu)
 [Michael Shadlen](https://zuckermaninstitute.columbia.edu/michael-n-shadlen-md-phd)
 Kiani labでの最初のヒトの研究: [Okazawa et al., 2018](https://www.nature.com/articles/s41467-018-05797-y)
-その後サルLIPの論文: [Okazawa et al., 2021](https://www.cell.com/cell/fulltext/S0092-8674\(21\)00652-8)
+その後サルLIPの論文: [Okazawa et al., 2021](<https://www.cell.com/cell/fulltext/S0092-8674(21)00652-8>)
 [Mante, Sussilo, et al., 2013](https://www.nature.com/articles/nature12742)
 [Stefano Fusi](https://zuckermaninstitute.columbia.edu/stefano-fusi-phd)のMixed selectivity: [Rigotti et al., 2013](https://www.nature.com/articles/nature12160)
 [Christian Machens](https://machenslab.org/)
@@ -74,7 +74,7 @@ Robert YangがXJ Wangと書いた論文: [Yang et al., 2019](https://www.nature.
 LIP, MIP: accumulation (reachでも): [Lafuente et al. 2015](https://www.jneurosci.org/content/35/10/4306)
 [吉良さん](https://www.kiralab.org/)（NR出演回: [#99](https://neuroradio.tokyo/2025/10/23/99-generalization/)）
 [Alex Huk](https://bri.ucla.edu/people/alex-huk-ph-d/)のLIPいらないんじゃない論文: [Katz et al., 2016](https://www.nature.com/articles/nature18617)
-に、対するShadlen研のフォローアップ: [Jeurissen et al., 2022](https://www.cell.com/neuron/fulltext/S0896-6273\(22\)00258-6)
+に、対するShadlen研のフォローアップ: [Jeurissen et al., 2022](<https://www.cell.com/neuron/fulltext/S0896-6273(22)00258-6>)
 [Gustav Fechner](https://en.wikipedia.org/wiki/Gustav_Fechner)
 [福岡市長選2026](https://go2senkyo.com/local/senkyo/26003)
 [Chun Xu](http://english.cebsit.cas.cn/lab/xuchun/research/)
