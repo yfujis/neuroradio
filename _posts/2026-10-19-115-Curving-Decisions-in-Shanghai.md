@@ -67,12 +67,12 @@ Robert YangがXJ Wangと書いた論文: [Yang et al., 2019](https://www.nature.
 [I am my connectome](https://embed.ted.com/embed/sebastian_seung_i_am_my_connectome): Connectome研究を推進するSebastian SeungのTED Talk
 追記：これで思い出した有名な [Movshon vs. Seung ビデオ](https://www.youtube.com/watch?v=q4KrhDZQ088)。（岡） 
 [IBL](https://www.internationalbrainlab.com/)の[最近の論文](https://www.nature.com/articles/s41586-025-09235-0)は、[Everything everywhere all at once](https://www.thetransmitter.org/decision-making/everything-everywhere-all-at-once-decision-making-signals-engage-entire-brain/)
-["All models are wrong, but some \`are useful"](https://en.wikipedia.org/wiki/All_models_are_wrong)
+["All models are wrong, but some are useful"](https://en.wikipedia.org/wiki/All_models_are_wrong)
 [Paul Glimcher](https://www.neuroeconomicslab.org/)
 [Stringer et al., 2019](https://www.nature.com/articles/s41586-019-1346-5)
 のサルでのフォローアップ論文: [Talluri et al., 2023](https://www.nature.com/articles/s41593-023-01459-5)
 LIP, MIP: accumulation (reachでも): [Lafuente et al. 2015](https://www.jneurosci.org/content/35/10/4306)
-[吉良さん](https://www.kiralab.org/)（NR出演回: [\#99](https://neuroradio.tokyo/2025/10/23/99-generalization/)）
+[吉良さん](https://www.kiralab.org/)（NR出演回: [#99](https://neuroradio.tokyo/2025/10/23/99-generalization/)）
 [Alex Huk](https://bri.ucla.edu/people/alex-huk-ph-d/)のLIPいらないんじゃない論文: [Katz et al., 2016](https://www.nature.com/articles/nature18617)
 に、対するShadlen研のフォローアップ: [Jeurissen et al., 2022](https://www.cell.com/neuron/fulltext/S0896-6273\(22\)00258-6)
 [Gustav Fechner](https://en.wikipedia.org/wiki/Gustav_Fechner)
