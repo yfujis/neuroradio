@@ -5,6 +5,7 @@ episode_number: "115"
 date: 2026-10-19
 permalink: /2026/10/19/115-Curving-Decisions-in-Shanghai/
 spotify: "https://open.spotify.com/embed/episode/2cJ4InRrByiFZbJ5RubIxB?utm_source=generator&si=a5cea1a470b14f8b"
+apple_podcast: "https://embed.podcasts.apple.com/jp/podcast/115-curving-decisions-in-shanghai/id1556937028?i=1000797028899"
 performers: ["ゲスト", "萩", "藤"]
 topics: ["ゲスト回", "独立", "中国", "非ヒト霊長類", "意思決定", "キャリア", "計算神経科学", "システム神経科学", "電気生理", "心理学"]
 summary: "中国科学院神経科学研究所（ION）の岡澤剛起さん(<a href='https://x.com/gouki_okazawa'>@gouki_okazawa</a>)ゲスト回。京大・船橋研、生理研・小松研からNYU・Kiani研への留学を経て、上海CAS IONで独立するまでの道のり、ANNモデルの有用性、「脳を理解する」とはどういうことか、サルvsマウス研究などについて議論しました。
