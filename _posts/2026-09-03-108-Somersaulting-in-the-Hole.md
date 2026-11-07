@@ -7,13 +7,14 @@ permalink: /2026/09/03/108-Somersaulting-in-the-Hole/
 spotify: "https://open.spotify.com/embed/episode/4E3otLhfEsWYNdsW5sAKmN?utm_source=generator&si=0b88074c5f8a4fad"
 apple_podcast: "https://embed.podcasts.apple.com/jp/podcast/108-somersaulting-in-the-hole/id1556937028?i=1000787549593"
 performers: ["ゲスト", "藤"]
+guests: ["山本渉"]
 topics: ["ゲスト回", "野外収録", "ヒドラ", "MBL", "グラスフェロー", "サマースクール"]
 summary: "アーカンソー大学 リトルロック校で独立される山本渉さん(<a href='https://x.com/wayamamo'>@wayamamo</a>)ゲスト回。MA州Woods Holeから野外収録でお届け。ユステ研でのヒドラ研究、MBLでのグラスフェロー、激凸グラスラボツアー等。(2026/07/26 収録)"
 ---
 
 Show Notes:
 山本渉さん ([X](https://x.com/wayamamo), [Google Scholar](https://scholar.google.com/citations?user=POPcn6IAAAAJ&hl=en))
-[MBL](https://www.mbl.edu) 
+[MBL](https://www.mbl.edu)
 [Yuste lab](https://blogs.cuit.columbia.edu/rmy5/)
 [Grass Fellow](https://grassfoundation.org/fellowship-overview/)
 [Coffee Obsession](https://maps.app.goo.gl/toNWLhRA3w6rzsYd6)
@@ -96,7 +97,7 @@ Show Notes:
 
 
 Editorial Notes:
-私は模試の成績が良すぎて高校3年間代ゼミと駿台がタダでした。架空の国ジャパンとか言い続けてるのは富田の影響が強そう。アーカンソーは[Onyx coffee labのpreserve](https://onyxatthepreserve.com/)に行きたいです(萩) 
-[トーラスヒドラ](https://www.biorxiv.org/content/10.1101/2024.04.07.588499v1.full)の神経細胞をイメージングしたらグリッド細胞は出てくるのでしょうか(脇) 
-到着直後にWoods Holeの町やMBLについて知ることができ、お陰様で充実した1ヶ月を過ごすことができました。今後のヒドラ研究のさらなる発展も楽しみにしています。(萩原さん\<-僕富田大好きでした) (藤) 
-藤島さん、Woods Holeではお世話になりました。ありがとうございます。収録中ということも忘れるくらい、すごく楽しかったです。勢いで適当なこともいろいろしゃべってしまった気がするので、そのあたりは話半分くらいで聞いてもらえると助かります。University of Arkansas at Little Rockでは、ヒドラなどを使って、神経系の進化やneuroengineeringに関する研究を始めます。今年はまずひたすらグラントに応募して、来年以降、本格的にメンバーをリクルートしていく予定です。神経の進化やneuroengineeringに興味があって、一緒に研究してみたいという方がいたら、ぜひご連絡ください（wyamamoto1@ualr.edu）。研究を一緒にする人だけでなく、友人やコラボレーターもいつでも募集中です。研究の話でも雑談でも、気軽に声をかけてもらえたらうれしいです(山) 
+私は模試の成績が良すぎて高校3年間代ゼミと駿台がタダでした。架空の国ジャパンとか言い続けてるのは富田の影響が強そう。アーカンソーは[Onyx coffee labのpreserve](https://onyxatthepreserve.com/)に行きたいです(萩)
+[トーラスヒドラ](https://www.biorxiv.org/content/10.1101/2024.04.07.588499v1.full)の神経細胞をイメージングしたらグリッド細胞は出てくるのでしょうか(脇)
+到着直後にWoods Holeの町やMBLについて知ることができ、お陰様で充実した1ヶ月を過ごすことができました。今後のヒドラ研究のさらなる発展も楽しみにしています。(萩原さん\<-僕富田大好きでした) (藤)
+藤島さん、Woods Holeではお世話になりました。ありがとうございます。収録中ということも忘れるくらい、すごく楽しかったです。勢いで適当なこともいろいろしゃべってしまった気がするので、そのあたりは話半分くらいで聞いてもらえると助かります。University of Arkansas at Little Rockでは、ヒドラなどを使って、神経系の進化やneuroengineeringに関する研究を始めます。今年はまずひたすらグラントに応募して、来年以降、本格的にメンバーをリクルートしていく予定です。神経の進化やneuroengineeringに興味があって、一緒に研究してみたいという方がいたら、ぜひご連絡ください（wyamamoto1@ualr.edu）。研究を一緒にする人だけでなく、友人やコラボレーターもいつでも募集中です。研究の話でも雑談でも、気軽に声をかけてもらえたらうれしいです(山)

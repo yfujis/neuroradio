@@ -6,6 +6,7 @@ date: 2026-10-19
 permalink: /2026/10/19/115-Curving-Decisions-in-Shanghai/
 spotify: "https://open.spotify.com/embed/episode/2cJ4InRrByiFZbJ5RubIxB?utm_source=generator&si=a5cea1a470b14f8b"
 apple_podcast: "https://embed.podcasts.apple.com/jp/podcast/115-curving-decisions-in-shanghai/id1556937028?i=1000797028899"
+guests: ["岡澤剛起"]
 performers: ["ゲスト", "萩", "藤"]
 topics: ["ゲスト回", "独立", "中国", "非ヒト霊長類", "意思決定", "キャリア", "計算神経科学", "システム神経科学", "電気生理", "心理学"]
 summary: "中国科学院神経科学研究所（ION）の岡澤剛起さん(<a href='https://x.com/gouki_okazawa'>@gouki_okazawa</a>)ゲスト回。京大・船橋研、生理研・小松研からNYU・Kiani研への留学を経て、上海CAS IONで独立するまでの道のり、ANNモデルの有用性、「脳を理解する」とはどういうことか、サルvsマウス研究などについて議論しました。
@@ -66,7 +67,7 @@ FusiのCCGPとPS: [Bernardi et al., 2020](https://www.sciencedirect.com/science/
 [Yamins et al., 2014](https://www.pnas.org/doi/10.1073/pnas.1403112111)
 Robert YangがXJ Wangと書いた論文: [Yang et al., 2019](https://www.nature.com/articles/s41593-018-0310-2)
 [I am my connectome](https://embed.ted.com/embed/sebastian_seung_i_am_my_connectome): Connectome研究を推進するSebastian SeungのTED Talk
-追記：これで思い出した有名な [Movshon vs. Seung ビデオ](https://www.youtube.com/watch?v=q4KrhDZQ088)。（岡） 
+追記：これで思い出した有名な [Movshon vs. Seung ビデオ](https://www.youtube.com/watch?v=q4KrhDZQ088)。（岡）
 [IBL](https://www.internationalbrainlab.com/)の[最近の論文](https://www.nature.com/articles/s41586-025-09235-0)は、[Everything everywhere all at once](https://www.thetransmitter.org/decision-making/everything-everywhere-all-at-once-decision-making-signals-engage-entire-brain/)
 ["All models are wrong, but some are useful"](https://en.wikipedia.org/wiki/All_models_are_wrong)
 [Paul Glimcher](https://www.neuroeconomicslab.org/)
@@ -84,6 +85,6 @@ LIP, MIP: accumulation (reachでも): [Lafuente et al. 2015](https://www.jneuros
 
 Editorial Notes:
 La La Landの冒頭でI got shanghaied!というおそろしいセリフがあるのですが、shanghaiedされずにサバイブしている岡澤さんの後進へのpositive影響半端ない(萩)
-研究哲学が澱みなく出てくるところに哲学者を感じました。五カ国語は厳しいとおっしゃいつつ三カ国語を操ってらっしゃる… (脇) 
+研究哲学が澱みなく出てくるところに哲学者を感じました。五カ国語は厳しいとおっしゃいつつ三カ国語を操ってらっしゃる… (脇)
 具体的な研究エピソードから分野全体の方向性に至るまで、たくさんのお考えを伺えて楽しかったです。福岡時代に上海に行かなかったことを今更ながら後悔。上海料理も好きなので、ぜひ遊びに行かせていただきたいです。(藤)
-みなさんぜひ上海きてください！萩原さんにはサル研究者として矜持を持てと発破をかけてもらったと理解しています笑 (岡)  
+みなさんぜひ上海きてください！萩原さんにはサル研究者として矜持を持てと発破をかけてもらったと理解しています笑 (岡)
