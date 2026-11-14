@@ -2,7 +2,39 @@
 
 NeuroRadioのGitHub Pages向けJekyllサイトです。エピソードは `_posts/` のMarkdownファイルとして管理します。
 
-## 新しいエピソードを追加する
+## ツールで新しいエピソードを作る（おすすめ）
+
+Google Docsの原稿から、投稿ファイルと画像フォルダを自動で作れます。Python 3だけで動きます（追加インストール不要）。
+
+1. Google Docsで「ファイル → ダウンロード → ウェブページ（.html、zip）」を選ぶ
+2. リポジトリのフォルダで、ダウンロードしたzip（または展開したフォルダ）を指定して実行する
+
+```bash
+python3 tools/new_episode.py ~/Downloads/116Dr._HammerfromU.zip --guests "長濱健一郎,小坂田拓哉"
+```
+
+自動でやること:
+
+- タイトル行の `#番号` から、ファイル名・`permalink`・画像フォルダ名を決める（日付は今日。変えるときは `--date 2026-12-01`。slugは英語タイトルから作り、英語がなければ `--slug` で指定）
+- 要約（収録日を含む）・出演者・トピックをfront matterに入れる
+- Show Notes / Editorial Notesを1行1項目に整形する。Docsのコメントやタイトル案は除く
+- 括弧を含むURLは `<>` で囲む
+- 画像を `image1.jpg` からの連番でコピーし、Show Notesの最後に `<figure>` で並べる（キャプションは画像の直前の行などから推定するので、表示を確認してください）
+- Spotify・Apple Podcastsの埋め込みURLを取得する。配信前で見つからなければ空欄にするので、配信後に `python3 tools/new_episode.py --fill-links 116` で埋める
+- 同じゲストの過去回があれば、topicsに `再登場` を足す
+
+Docs側は、冒頭の `#116 タイトル` 行、要約の段落、`出演者:` 行、`トピック:` 行、`Show Notes:` と `Editorial Notes:` の見出しがあれば読めます。`ゲスト名: 長濱健一郎, 小坂田拓哉` の行を入れておくと `--guests` は不要です。書き込まずに結果だけ見たいときは `--dry-run` を付けます。
+
+### 投稿のチェック
+
+```bash
+python3 tools/check_posts.py                                        # 全エピソード
+python3 tools/check_posts.py _posts/2026-11-14-116-Dr-Hammer-from-U.md
+```
+
+壊れるリンク（`\(` や、`<>` で囲んでいない括弧入りURL）、ファイル名・日付・permalinkの食い違い、存在しない画像、空のSpotify URL、Docsのコメントの残りなどを見つけます。pushの前に実行してください。
+
+## 新しいエピソードを手で追加する
 
 新しいエピソードは `_posts/` にMarkdownファイルを1つ追加すると作れます。
 
@@ -96,14 +128,14 @@ topics: ["ゲスト回", "論文解説", "留学", "再登場"]
 画像ファイルはエピソードごとのフォルダに入れます。
 
 ```text
-assets/episodes/105-new-episode-title/image-1.jpg
+assets/episodes/105-new-episode-title/image1.jpg
 ```
 
 画像はShow Notesの最後、`Editorial Notes:` の直前に置きます。キャプションがある場合は `<figcaption>` に書きます。
 
 ```html
 <figure>
-  <img src="/assets/episodes/105-new-episode-title/image-1.jpg" alt="">
+  <img src="/assets/episodes/105-new-episode-title/image1.jpg" alt="">
   <figcaption>ここにキャプションを書きます。</figcaption>
 </figure>
 ```
@@ -112,13 +144,13 @@ assets/episodes/105-new-episode-title/image-1.jpg
 
 ```html
 <figure>
-  <img src="/assets/episodes/105-new-episode-title/image-1.jpg" alt="">
+  <img src="/assets/episodes/105-new-episode-title/image1.jpg" alt="">
 </figure>
 ```
 画像はキャプションがなければ、マークダウンの画像形式で書いても大丈夫です。
 
 ```markdown
-![代替テキスト](/assets/episodes/105-new-episode-title/image-1.jpg)
+![代替テキスト](/assets/episodes/105-new-episode-title/image1.jpg)
 ```
 
 変更したら、GitHubにpushしてください。GitHub Actionsが自動でサイトをビルドしてデプロイします。Actionsで、デプロイが成功したかどうかを確認できます。
@@ -161,6 +193,8 @@ GitHub PagesはGitHub Actionsで `_site/` をデプロイします。`.github/wo
 - `_layouts/default.html` - 共通HTML
 - `_includes/` - header/footer/tag UI
 - `_plugins/episode_parser.rb` - ラベル形式のMarkdownを読むJekyll plugin
+- `tools/new_episode.py` - Google Docsの書き出しから新エピソードを作るツール（サイトには含まれない）
+- `tools/check_posts.py` - `_posts/` のチェックツール
 - `index.html` - ホーム
 - `episodes/index.html` - エピソード一覧
 - `otayori/index.html` - お便りページ
