@@ -33,7 +33,7 @@ Channelrhodopsin発見論文：[ChR1](https://www.science.org/doi/10.1126/scienc
 Dick Tsien = [Richard W. Tsien](https://med.nyu.edu/faculty/richard-tsien)（現NYU）
 Tajimaさん筆頭の[K+チャネルロドプシン構造論文](https://doi.org/10.1016/j.cell.2023.08.009) (Tajima et al., Cell 2023)
 [Brian Kobilka](https://www.nobelprize.org/prizes/chemistry/2012/kobilka/facts/) / [Kobilkaラボ](https://med.stanford.edu/kobilkalab.html)
-Bito, Deisseroth, TsienのCREB周りの仕事：[Deisseroth et al., Neuron 1996](https://doi.org/10.1016/s0896-6273\(00\)80026-4)、[Bito et al., Cell 1996](https://doi.org/10.1016/s0092-8674\(00\)81816-4)、[Deisseroth et al., Nature 1998](https://doi.org/10.1038/32448)
+Bito, Deisseroth, TsienのCREB周りの仕事：[Deisseroth et al., Neuron 1996](<https://doi.org/10.1016/s0896-6273(00)80026-4>)、[Bito et al., Cell 1996](<https://doi.org/10.1016/s0092-8674(00)81816-4>)、[Deisseroth et al., Nature 1998](https://doi.org/10.1038/32448)
 ChRで叩いてCREBのリン酸化を見たのが最初：Advanced Informationの本文中の記述（[Boyden 2011, F1000 Biol Rep](https://doi.org/10.3410/B3-11)のoptogeneticsの歴史も参照）
 BoydenのPhD：小脳運動学習 [Boyden et al., Neuron 2006](https://doi.org/10.1016/j.neuron.2006.08.026)
 八尾先生の[ChR2のニューロンへの応用](https://doi.org/10.1016/j.neures.2005.10.009) (Ishizuka et al., Neurosci Res 2006)
@@ -46,7 +46,7 @@ Zhuo-Hua Panの[網膜への応用](https://doi.org/10.1016/j.neuron.2006.02.026
 [Breakthrough Prize 2016](https://breakthroughprize.org/Laureates/2/P1/Y2016): Deisseroth, Boyden
 [Brain Prize 2013](https://brainprize.org/winners/optogenetics-2013): Bamberg, Boyden, Deisseroth, Hegemann, Miesenböck, Nagel
 Geroは取らないのか？の質問があった記者会見(最初の質問12:14~)：[発表の動画](https://www.nobelprize.org/prizes/medicine/2026/prize-announcement/)
-[Gero Miesenböck](https://en.wikipedia.org/wiki/Gero_Miesenb%C3%B6ck)の最初のやり方：[chARGe](https://doi.org/10.1016/s0896-6273\(01\)00574-8) (Zemelman et al., Neuron 2002)
+[Gero Miesenböck](https://en.wikipedia.org/wiki/Gero_Miesenb%C3%B6ck)の最初のやり方：[chARGe](<https://doi.org/10.1016/s0896-6273(01)00574-8>) (Zemelman et al., Neuron 2002)
 ハエの断頭実験：[P2X2 + caged ATPで首なしハエを飛ばした論文](https://doi.org/10.1016/j.cell.2005.02.004) (Lima & Miesenböck, Cell 2005)
 Andre Berndt：[Berndt et al., Science 2014](https://doi.org/10.1126/science.1252367)、[Berndt lab](https://www.berndtlab.com/)。同時にHegemannラボからも[Wietek et al., Science 2014](https://doi.org/10.1126/science.1249375)
 [Boydenラボ (Synthetic Neurobiology Group)](https://synthneuro.org/)
@@ -59,7 +59,7 @@ Baoラボと一緒にバイオエンジニアリングもやっている：[Zhen
 日本の[かずさDNA研究所](https://www.kazusa.or.jp/)：ChRの遺伝子が見つかった[クラミドモナスのESTデータベース論文](https://doi.org/10.1093/dnares/7.5.305) (Asamizu et al., DNA Res 2000)
 [構造解析をしてStructure-functionがわかったのはマイルストーンだ、といったDeisserothのインタビュー](https://www.yodosha.co.jp/jikkenigaku/articles/index.html?ci=47200&ad=bnr)
 PhDのころのDeisserothの仕事：上記CREB周りの仕事（Tsienラボ）
-ポスドクの頃のMalenkaラボでのDeisserothの仕事：[Excitation-neurogenesis coupling](https://doi.org/10.1016/s0896-6273\(04\)00266-1) (Deisseroth et al., Neuron 2004)
+ポスドクの頃のMalenkaラボでのDeisserothの仕事：[Excitation-neurogenesis coupling](<https://doi.org/10.1016/s0896-6273(04)00266-1>) (Deisseroth et al., Neuron 2004)
 [Feng Zhangラボ](https://www.zlab.bio/)
 [がヒャッハー](https://www.nature.com/articles/nature05744)
 [Avishek Adhikari](https://adhikarilab.psych.ucla.edu/)の論文：[Adhikari et al., Nature 2015](https://doi.org/10.1038/nature15698)
@@ -71,7 +71,7 @@ Engram：[Liu et al., Nature 2012](https://doi.org/10.1038/nature11028)、[Ramir
 DREADD：[Armbruster et al., PNAS 2007](https://doi.org/10.1073/pnas.0700293104)
 Bacteriorhodopsin 1971：[Oesterhelt & Stoeckenius, Nature New Biology 1971](https://doi.org/10.1038/newbio233149a0)
 2002：上記ChR1の論文
-向畑先生：ハロロドプシン (1977) [Matsuno-Yagi & Mukohata, BBRC 1977](https://doi.org/10.1016/0006-291x\(77\)91245-1)
+向畑先生：ハロロドプシン (1977) [Matsuno-Yagi & Mukohata, BBRC 1977](<https://doi.org/10.1016/0006-291x(77)91245-1>)
 Sensory Rhodopsin は 80年代：[Bogomolni & Spudich, PNAS 1982](https://doi.org/10.1073/pnas.79.20.6250)
 [Edward DeLong](https://en.wikipedia.org/wiki/Edward_DeLong)
 [Oded Béjà](https://en.wikipedia.org/wiki/Oded_Beja)

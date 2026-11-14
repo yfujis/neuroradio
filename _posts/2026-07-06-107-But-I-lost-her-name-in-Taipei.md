@@ -24,7 +24,7 @@ Show Notes:
 [SpikeFinder](https://github.com/timothylcooke/SpikeFinder)はCa imagingのdeconvolution (spike estimation)用のパッケージでした (萩
 [Buzcode](https://github.com/buzsakilab/buzcode)
 [Fortran](https://en.wikipedia.org/wiki/Fortran)
-[IDL](<https://en.wikipedia.org/wiki/IDL_\(programming_language\)>)
+[IDL](<https://en.wikipedia.org/wiki/IDL_(programming_language)>)
 [Igor](https://www.wavemetrics.com/) 
 [Pynapple](https://pynapple.org/)
 [Adrien Peyrache](https://www.peyrachelab.com/people)

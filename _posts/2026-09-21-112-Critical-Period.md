@@ -37,7 +37,7 @@ Show Notes:
 [八木健先生](https://www.fbs.osaka-u.ac.jp/labs/yagi/index.htm): [protocadherinを最初に報告された論文](https://pubmed.ncbi.nlm.nih.gov/9655502/)
 [SPring-8](https://ja.wikipedia.org/wiki/SPring-8)
 [樋口芳樹先生](https://researchmap.jp/SuperYoshiki)
-[Morishita et al., 2006](https://www.jbc.org/article/S0021-9258\(20\)70547-8/fulltext): Protocadherinの１つ目の細胞外ドメイン(EC1) の構造を解いた論文
+[Morishita et al., 2006](<https://www.jbc.org/article/S0021-9258(20)70547-8/fulltext>): Protocadherinの１つ目の細胞外ドメイン(EC1) の構造を解いた論文
 約10年後からでてきた構造解読論文: [Rubinstein et al., 2015](https://www.sciencedirect.com/science/article/pii/S0092867415011885?via%3Dihub) (EC1-3), [Goodman et al., 2016](https://www.sciencedirect.com/science/article/pii/S0896627316300629?via%3Dihub) (EC1-4), [Brasch et al., 2019](https://www.nature.com/articles/s41586-019-1089-3) (EC1-6)
 [Morishita et al., 2004](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1460-9568.2004.03803.x): Protocadherinとsubplate、Myelin化との関係
 [杉山清佳先生](https://researchmap.jp/sayakasugiyama?lang=ja)

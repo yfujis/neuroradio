@@ -29,9 +29,9 @@ Show Notes:
 [寺田さん](https://scholar.google.com/citations?user=Au8xqK0vrR4C&hl=en)
 野口朝子[さん](https://memorylongevity.org/team)
 [Nakanishiさん](https://biology.uark.edu/directory/faculty/uid/nnakanis/name/Nagayasu+Nakanishi/)
-[Yamamoto and Yuste, 2023](https://www.cell.com/star-protocols/fulltext/S2666-1667\(23\)00420-3): レーザーでmanipulate
+[Yamamoto and Yuste, 2023](<https://www.cell.com/star-protocols/fulltext/S2666-1667(23)00420-3>): レーザーでmanipulate
 [Yamamoto and Yuste, 2023](https://www.cell.com/current-biology/fulltext/S0960-9822%2823%2900335-4): (ヒドラのsummersaultingの動画あり)
-[Yamamoto and Yuste, 2026](https://www.cell.com/current-biology/fulltext/S0960-9822\(26\)01012-2): 最新作osmoregulation、[9月末までフリーアクセス](https://authors.elsevier.com/a/1ni9g3QW8SDu0A)
+[Yamamoto and Yuste, 2026](<https://www.cell.com/current-biology/fulltext/S0960-9822(26)01012-2>): 最新作osmoregulation、[9月末までフリーアクセス](https://authors.elsevier.com/a/1ni9g3QW8SDu0A)
 [アインシュタインの息子](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3)
 [クフラー](https://en.wikipedia.org/wiki/Stephen_Kuffler): Ecclesの弟子で、Hubel, Wiesel , Kandel, Barlowを生み出した生理学の巨匠。[NRでも既出](https://neuroradio.tokyo/2021/09/15/23-poor-is-the-pupil-who-does-not-surpass-his-master-part-1/)（と萩原さんに言われた）（藤）
 [イーセルブラウン](https://en.wikipedia.org/wiki/Ethel_Browne_Harvey): 一番最初にヒドラでorganizerを見つけた
@@ -72,7 +72,7 @@ Show Notes:
 [The Grass Foundationは電気生理の実験器具（パッチクランプのアンプ等）で財をなしたEllen&Albert Grass夫婦により設立](https://grassfoundation.org/our-history/)
 [Orca Fusion](https://www.hamamatsu.com/eu/en/product/cameras/cmos-cameras/C14440-20UP.html)
 [Orca Flash](https://www.hamamatsu.com/eu/en/product/cameras/cmos-cameras/C13440-20CU.html) (Fusionの一世代前のモデル)
-遺伝研にいた[藤沢研](https://researchmap.jp/read0156936)の[清水さん](https://ja.wikipedia.org/wiki/清水裕_\(生物学者\))
+遺伝研にいた[藤沢研](https://researchmap.jp/read0156936)の[清水さん](<https://ja.wikipedia.org/wiki/清水裕_(生物学者)>)
 [Natural Neuroscience](https://mitpress.mit.edu/9780262044998/natural-neuroscience/)
 [Thomas Morgan](https://en.wikipedia.org/wiki/Thomas_Hunt_Morgan)
 [宮崎憲一さん](https://anatomy3.hokkaido.university/staff/kenichi-miyazaki/)
