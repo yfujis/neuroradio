@@ -8,7 +8,16 @@ summary: 神経科学者による日本語Podcast。最新回、エピソード�
   <section class="hero" id="top" aria-labelledby="latest-title">
     <article class="latest-card" id="latest" aria-labelledby="latest-title">
       <div class="latest-art">
-        <img src="{{ '/assets/neuroradio-cover.png' | relative_url }}" alt="NeuroRadioのカバーアート">
+        <img
+          src="{{ '/assets/neuroradio-cover-720.webp' | relative_url }}"
+          srcset="{{ '/assets/neuroradio-cover-360.webp' | relative_url }} 360w,
+                  {{ '/assets/neuroradio-cover-540.webp' | relative_url }} 540w,
+                  {{ '/assets/neuroradio-cover-720.webp' | relative_url }} 720w,
+                  {{ '/assets/neuroradio-cover-942.webp' | relative_url }} 942w"
+          sizes="(max-width: 520px) calc(100vw - 38px), (max-width: 860px) calc(100vw - 50px), 360px"
+          width="720"
+          height="720"
+          alt="NeuroRadioのカバーアート">
       </div>
       <div class="latest-body">
         <p class="eyebrow">最新回</p>
