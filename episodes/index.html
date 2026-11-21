@@ -10,6 +10,24 @@ summary: NeuroRadioのエピソード一覧。新しい順に表示していま�
     <p class="hero-lede">新しい順に表示しています。</p>
   </section>
 
+  <form class="archive-search" role="search" aria-label="エピソード全文検索" action="{{ '/search/' | relative_url }}" method="get">
+    <label for="archive-search-input">ゲスト名・論文名・エピソード番号で検索</label>
+    <div class="archive-search-controls">
+      <input id="archive-search-input" name="q" type="search" required>
+      <button class="button primary" type="submit">検索</button>
+    </div>
+  </form>
+
+  <nav class="archive-topics" aria-labelledby="archive-topics-title">
+    <p id="archive-topics-title">よく登場するトピック</p>
+    <div class="tags topic-tags">
+      {% assign featured_topics = 'ゲスト回|論文解説|キャリア|計算神経科学' | split: '|' %}
+      {% for topic in featured_topics %}
+        <a href="{{ '/episodes/' | relative_url }}?topic={{ topic | uri_escape }}">{{ topic }}</a>
+      {% endfor %}
+    </div>
+  </nav>
+
   <section class="archive-tag-panel" aria-labelledby="tag-panel-title">
     <button class="tag-panel-toggle" type="button" aria-expanded="false" aria-controls="tag-panel-body">
       <span id="tag-panel-title">タグで探す</span>

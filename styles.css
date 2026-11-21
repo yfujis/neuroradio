@@ -442,6 +442,31 @@ h3 {
   margin-bottom: 28px;
 }
 
+.archive-search,
+.archive-topics {
+  margin-bottom: 18px;
+}
+
+.archive-search-controls {
+  display: flex;
+  gap: 8px;
+}
+
+.archive-search-controls input {
+  flex: 1;
+  min-width: 0;
+}
+
+.archive-topics p {
+  font-weight: 700;
+  margin: 0 0 8px;
+}
+
+.archive-topics a {
+  align-items: center;
+  min-height: 32px;
+}
+
 .archive-list {
   display: grid;
   gap: 16px;
@@ -474,12 +499,14 @@ h3 {
   padding: 14px;
 }
 
+.archive-search label,
 .tag-panel-body label {
   display: block;
   font-weight: 700;
   margin-bottom: 8px;
 }
 
+.archive-search-controls input,
 .tag-panel-body input {
   background: var(--panel);
   border: 1px solid var(--line);

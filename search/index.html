@@ -15,10 +15,10 @@ permalink: /search/
 </main>
 
 <link href="{{ '/pagefind/pagefind-ui.css' | relative_url }}" rel="stylesheet">
-<script src="{{ '/pagefind/pagefind-ui.js' }}"></script>
+<script src="{{ '/pagefind/pagefind-ui.js' | relative_url }}"></script>
 <script>
 window.addEventListener('DOMContentLoaded', function () {
-  new PagefindUI({
+  const search = new PagefindUI({
     element: '#pagefind-search',
     showSubResults: true,
     translations: {
@@ -26,5 +26,9 @@ window.addEventListener('DOMContentLoaded', function () {
       zero_results: '[SEARCH_TERM] に一致するエピソードが見つかりませんでした。'
     }
   });
+  const query = new URLSearchParams(window.location.search).get('q');
+  if (query && query.trim()) {
+    search.triggerSearch(query.trim());
+  }
 });
 </script>
