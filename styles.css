@@ -282,9 +282,8 @@ h3 {
 }
 
 .latest-art img {
-  aspect-ratio: 1 / 1;
   display: block;
-  object-fit: cover;
+  height: auto;
   width: 100%;
 }
 
@@ -455,11 +454,6 @@ h3 {
 .archive-search-controls input {
   flex: 1;
   min-width: 0;
-}
-
-.archive-topics p {
-  font-weight: 700;
-  margin: 0 0 8px;
 }
 
 .archive-topics a {
