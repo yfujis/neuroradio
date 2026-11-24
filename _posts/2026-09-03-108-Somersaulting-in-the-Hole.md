@@ -13,7 +13,7 @@ summary: "アーカンソー大学 リトルロック校で独立される山本
 ---
 
 Show Notes:
-山本渉さん ([X](https://x.com/wayamamo), [ラボホームページ](https://wayamamolab.org/), [Google Scholar](https://scholar.google.com/citations?user=T0_w1joAAAAJ))
+山本渉さん ([X](https://x.com/wayamamo), [ラボHP](https://wayamamolab.org/), [Google Scholar](https://scholar.google.com/citations?user=T0_w1joAAAAJ))
 [MBL](https://www.mbl.edu)
 [Yuste lab](https://blogs.cuit.columbia.edu/rmy5/)
 [Grass Fellow](https://grassfoundation.org/fellowship-overview/)
